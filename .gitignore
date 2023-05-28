@@ -9,6 +9,7 @@ bin/
 *.lo
 *.o
 *.obj
+*.obj1
 *.pdb
 *.pyc
 *~
